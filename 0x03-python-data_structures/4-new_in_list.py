@@ -9,4 +9,4 @@ def new_in_list(my_list, idx, element):
         for i in range(0, len):
             if i == idx:
                 temp[i] = element
-                return (temp)
+        return (temp)
