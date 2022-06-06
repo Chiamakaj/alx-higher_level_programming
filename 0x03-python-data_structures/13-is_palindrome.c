@@ -14,7 +14,7 @@ int is_palindrome(listint_t **head)
 	unsigned int dis = 1;
 	listint_t *tmp;
 
-	if (head == NULL|| *head == NULL)
+	if (head == NULL)
 		return (1);
 	tmp = *head;
 	while (tmp) /* get length of list */
