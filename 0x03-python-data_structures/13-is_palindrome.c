@@ -24,5 +24,5 @@ int is_palindrome(listint_t **head)
 		tmp = tmp->next;
 		dis++;
 	}
-	return (0);
+	return (1);
 }
