@@ -41,8 +41,7 @@ class Square:
         """Sets the size of the square
 
         Args:
-            value (int): the size
-            
+            value (int): the size            
         Raises:
             TypeError: size must be an integer
             ValueError: size must be >= 0
