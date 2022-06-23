@@ -42,7 +42,7 @@ class Square:
 
         Args:
             value (int): the size
-        
+            
         Raises:
             TypeError: size must be an integer
             ValueError: size must be >= 0
