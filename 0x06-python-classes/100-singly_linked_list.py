@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""A class node that defines a node of a singly list"""
 
 
 class Node:
