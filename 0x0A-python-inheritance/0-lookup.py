@@ -3,9 +3,7 @@
 Contains the lookup function
 """
 
+
 def lookup(obj):
-    """
-    Returns the list containing attributes
-    and methods of an object
-    """
+    """Returns the list containing attributes and methods of an object"""
     return dir(obj)
