@@ -1,4 +1,6 @@
-"""add_item
+#!/usr/bin/python3
+"""
+Add_item
 """
 import sys
 load_from_json_file = __import__('8-load_from_json_file').load_from_json_file
